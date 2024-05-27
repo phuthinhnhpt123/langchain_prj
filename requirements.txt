@@ -1,11 +1,15 @@
+# chatbot
 langchain_openai 
 langchain_core
 python-dotenv
 streamlit
 langchain_community
+
+# api
 langserve
 fastapi
 uvicorn
+
 sse_starlette
 bs4
 pypdf
